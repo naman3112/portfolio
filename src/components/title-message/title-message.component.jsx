@@ -37,13 +37,13 @@ const TitleMessage = () => {
                         Hi, I am
           <br />
                         <span>
-                            <strong>Sagar Guglani</strong>
+                            <strong>Naman Arora</strong>
                         </span>
                     </div>
                     <div className="sub">
                         <Typewriter
                             options={{
-                                strings: ["Web Developer", "Data Analyst", "Learner"],
+                                strings: ["Web Developer", "Internet Of things enthusiast", "Learner"],
                                 autoStart: true,
                                 loop: true,
                                 delay: 50

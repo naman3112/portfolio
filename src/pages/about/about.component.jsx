@@ -1,5 +1,5 @@
 import React from "react";
-import MyPhoto from '../../assets/img/profile/profile.webp'
+import MyPhoto from '../../assets/img/profile/naman.jpeg'
 
 import './about.style.scss'
 
@@ -8,11 +8,11 @@ const About = () => {
         <div id="about">
             <h1 className="text-center font-details-b">ABOUT ME</h1>
             <hr></hr>
-            <div className="about-container">
-                <div className="about-left">
+            <div className="about-container flex-container">
+                <div className="about-left order: 2">
                     <img className="about-image" src={MyPhoto} alt="My Photograph" />
                 </div>
-                <div className="about-right">
+                <div className="about-right order: 1">
                     <h2 className="about-name">Hi there! I am <b>Naman Arora</b></h2>
                     <div className="about-desc">
                         <ul>

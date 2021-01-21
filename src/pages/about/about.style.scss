@@ -2,6 +2,7 @@
     padding:10px;
     text-align: center;
     align-items: center;
+    
 }
 
 a{
@@ -22,18 +23,21 @@ a:hover{
 }
 
 .about-left{
-    margin-left: -15rem;
+    margin-left: 1rem;
+    margin-bottom:1rem;
+    margin-right: 1rem;
 }
 
 .about-image{
-    width: 50%;
+    width: 100%;
 }
 
 .about-right{
+   
     border-color: white;
     border-style: solid;
 
-    margin-left: -10rem;
+    margin-left: 2rem;
     // background-color: rgb(121, 45, 156);
     background-color: transparent;
     padding: 20px;
