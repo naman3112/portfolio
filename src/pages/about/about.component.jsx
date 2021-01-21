@@ -13,7 +13,7 @@ const About = () => {
                     <img className="about-image" src={MyPhoto} alt="My Photograph" />
                 </div>
                 <div className="about-right">
-                    <h2 className="about-name">Hi there! I am <b>Sagar Guglani</b></h2>
+                    <h2 className="about-name">Hi there! I am <b>Naman Arora</b></h2>
                     <div className="about-desc">
                         <ul>
                             <li>Express, NodeJS projects:
