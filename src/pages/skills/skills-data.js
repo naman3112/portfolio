@@ -12,7 +12,9 @@ import GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import PYTHON from "../../assets/img/skills/python.svg";
 import MYSQL from "../../assets/img/skills/mysql.svg"
-
+import C from "../../assets/img/skills/c.svg";
+import AWS from "../../assets/img/skills/aws.jpg"
+import MongoDb from "../../assets/img/skills/mongodb.png"
 export const skills = {
   frontend: [
     {
@@ -33,12 +35,7 @@ export const skills = {
       imgSrc: JAVASCRIPT,
       skillName: "JavaScript",
     },
-    {
-      link: "https://sass-lang.com/",
-      imgAltText: "Sass",
-      imgSrc: SASS,
-      skillName: "Sass",
-    },
+    
     {
       link: "https://getbootstrap.com/",
       imgAltText: "Bootstrap",
@@ -57,12 +54,7 @@ export const skills = {
       imgSrc: REACT_BOOTSTRAP,
       skillName: "React Bootstrap",
     },
-    {
-      link: "https://styled-components.com/",
-      imgAltText: "styled-components",
-      imgSrc: STYLED_COMPONENTS,
-      skillName: "styled-components",
-    },
+   
     
   ],
 
@@ -82,10 +74,10 @@ export const skills = {
   ],
   hostingPlatforms: [
     {
-      link: "https://www.heroku.com/",
-      imgAltText: "Heroku",
-      imgSrc: HEROKU,
-      skillName: "Heroku",
+      link: "https://aws.amazon.com/",
+      imgAltText: "AWS",
+      imgSrc: AWS,
+      skillName: "AWS",
     },
     {
       link: "https://pages.github.com/",
@@ -102,10 +94,10 @@ export const skills = {
       skillName: "JavaScript",
     },
     {
-      link: "https://www.python.org/",
-      imgAltText: "Python",
-      imgSrc: PYTHON,
-      skillName: "Python",
+      link: "",
+      imgAltText: "C++",
+      imgSrc: C,
+      skillName: "C++",
     }
   ],
   databases: [
@@ -114,6 +106,12 @@ export const skills = {
       imgAltText: "MySQL",
       imgSrc: MYSQL,
       skillName: "MySQL",
+    },
+    {
+      link: "https://www.mongodb.com/1",
+      imgAltText: "MongoDb",
+      imgSrc: MongoDb,
+      skillName: "MongoDb",
     }
   ]
 };

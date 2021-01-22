@@ -15,27 +15,23 @@ const About = () => {
                 <div className="about-right order: 1">
                     <h2 className="about-name">Hi there! I am <b>Naman Arora</b></h2>
                     <div className="about-desc">
-                        <ul>
-                            <li>Express, NodeJS projects:
-                                <ol>
-                                    <li>Scribble game using web Sockets for live drawing board and chatBox</li>
-                                    <li>E-commerce CRUD APIs with JWT auth, Bcrypt encryption, JOI payload validations, Sequelize(MySQL), Redis Cache</li>
-                                </ol>
-                            </li>
-                            <li>Pure Javascript Game: 2D Breakout: <a style={{color:"#0000ff"}} href="https://sagarguglani15.github.io/BreakOut/" target="_blank" rel="noopener noreferrer"> Click to play!</a></li>
-                            <li>OpenCV Python3 projects: face detection based attendance automation system</li>
-                            <li>Tkinter GUI games, Python3: SnakeFood, Hangman, FlappyBird</li>
-                            <li>Twitter Sentiments Analysis: using Tweepy library(collecting tweets) and TextBlob to get -ve, 0, +ve sentiments behind tweets, Matplotlib, Pyplot for data visualization, Pandas Dataframes</li>
-                        </ul>
+                        <p>
+ I am a final year student pursuing my bachelor's degree majoring in Computer Sceince and Engineering from Maharaja Agrasen Institute of Technology(2018-2022).
+
+I have a keen interest in Internet Of things and have been learning about various sensors from over two years now, demonstrated  3 projects in different hackathons. These three projects were built to solve the real life problems like traffic management and contact tracing for pandemic (Covid-19).
+<br/>
+Besides this, I have also developed interest in web developement primarily in ReactJs.
+
+                        </p>
                     </div>
 
 
                     <ul className="about-buttons">
-                        <li className="about-buttons-li"><a href="https://drive.google.com/file/d/1KQ1KQCHh0FdCmfepl4JO5ckGLbV6_Jeo/view?usp=sharing"
+                        <li className="about-buttons-li"><a href="https://drive.google.com/file/d/1Hgig9kxgUujUsBSujyB_lh15LUdxhefH/view?usp=sharing"
                             target="_blank" rel="noopener noreferrer">My Resume</a></li>
                         <li className="about-buttons-li"><a href="#contact" target="_blank" rel="noopener noreferrer">Lets talk!</a></li>
-                        <li className="about-buttons-li"><a href="https://github.com/sagarguglani15" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-                        <li className="about-buttons-li"><a href="https://www.linkedin.com/in/sagar-guglani/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                        <li className="about-buttons-li"><a href="https://github.com/naman3112" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+                        <li className="about-buttons-li"><a href="https://www.linkedin.com/in/naman-arora-462465139/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
                     </ul>
 
                 </div>
