@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9644a91e.chunk.css",
-    "main.js": "/portfolio/static/js/main.2ff230d5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2ff230d5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c07fb4c2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c07fb4c2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.21fd939e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.21fd939e.js.map",
     "static/js/2.59637a90.chunk.js": "/portfolio/static/js/2.59637a90.chunk.js",
@@ -16,12 +16,14 @@
     "static/media/breakout.48136685.png": "/portfolio/static/media/breakout.48136685.png",
     "static/media/c.2441702d.svg": "/portfolio/static/media/c.2441702d.svg",
     "static/media/css3.8fba365c.svg": "/portfolio/static/media/css3.8fba365c.svg",
+    "static/media/digiclock.e2707d22.jpeg": "/portfolio/static/media/digiclock.e2707d22.jpeg",
     "static/media/ecom.2c064fbe.jpg": "/portfolio/static/media/ecom.2c064fbe.jpg",
     "static/media/express.75fff9be.svg": "/portfolio/static/media/express.75fff9be.svg",
     "static/media/github.740db6be.svg": "/portfolio/static/media/github.740db6be.svg",
     "static/media/heroku.73be03b3.svg": "/portfolio/static/media/heroku.73be03b3.svg",
     "static/media/html-5.821ba738.svg": "/portfolio/static/media/html-5.821ba738.svg",
     "static/media/javascript.ba40d6a9.svg": "/portfolio/static/media/javascript.ba40d6a9.svg",
+    "static/media/jolly.1539f94c.png": "/portfolio/static/media/jolly.1539f94c.png",
     "static/media/logow.8409423b.webp": "/portfolio/static/media/logow.8409423b.webp",
     "static/media/matplotlib.d3fa09e4.svg": "/portfolio/static/media/matplotlib.d3fa09e4.svg",
     "static/media/mongodb.2039fe20.png": "/portfolio/static/media/mongodb.2039fe20.png",
@@ -40,14 +42,16 @@
     "static/media/slide2.d58e7971.webp": "/portfolio/static/media/slide2.d58e7971.webp",
     "static/media/slide3.ea32b5ab.webp": "/portfolio/static/media/slide3.ea32b5ab.webp",
     "static/media/styled-components.2e00d138.svg": "/portfolio/static/media/styled-components.2e00d138.svg",
+    "static/media/tfm.ab6c5ca1.png": "/portfolio/static/media/tfm.ab6c5ca1.png",
     "static/media/tkgames.bbc4ff7d.png": "/portfolio/static/media/tkgames.bbc4ff7d.png",
     "static/media/tkinter.94b027b9.jpg": "/portfolio/static/media/tkinter.94b027b9.jpg",
-    "static/media/tsa.2f650424.png": "/portfolio/static/media/tsa.2f650424.png"
+    "static/media/tsa.2f650424.png": "/portfolio/static/media/tsa.2f650424.png",
+    "static/media/vigil.539178cd.png": "/portfolio/static/media/vigil.539178cd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.21fd939e.js",
     "static/js/2.59637a90.chunk.js",
     "static/css/main.9644a91e.chunk.css",
-    "static/js/main.2ff230d5.chunk.js"
+    "static/js/main.c07fb4c2.chunk.js"
   ]
 }
