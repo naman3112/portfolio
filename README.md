@@ -1,3 +1,9 @@
+# Description
+This is my portfolio website built using Reactjs , CSS and typescript. It consists of all my featured works and Resume.
+# Website Link
+Go to this [Link](https://naman3112.github.io/portfolio/) to view my webiste Live
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
