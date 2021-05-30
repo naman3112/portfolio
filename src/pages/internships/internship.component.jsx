@@ -13,7 +13,7 @@ const Internship = () => {
             <div className="internship-container-main">
                 {internships.map((internship, index) => (
 
-                    <Tilt className="Tilt" options={{ max: 25 }}>
+                    <Tilt className="Tilt" options={{ max: 40 }}>
 
                         <span className="p-2" key={index}>
                             <div className="internship-container">

@@ -16,11 +16,10 @@ const About = () => {
                     <h2 className="about-name">Hi there! I am <b>Naman Arora</b></h2>
                     <div className="about-desc">
                         <p>
- I am a final year student pursuing my bachelor's degree majoring in Computer Sceince and Engineering from Maharaja Agrasen Institute of Technology(2018-2022).
+ I am a pre-final year student pursuing my bachelor's degree majoring in Computer Sceince and Engineering from Maharaja Agrasen Institute of Technology(2018-2022).
 
-I have a keen interest in Internet Of things and have been learning about various sensors from over two years now, demonstrated  3 projects in different hackathons. These three projects were built to solve the real life problems like traffic management and contact tracing for pandemic (Covid-19).
-<br/>
-Besides this, I have also developed interest in web developement primarily in ReactJs.
+I have a keen interest in MERN stack, Internet Of things and have been learning about various sensors from over two years now, demonstrated  3 projects in different hackathons. These three projects were built to solve the real life problems like traffic management and contact tracing for pandemic (Covid-19).
+
 
                         </p>
                     </div>

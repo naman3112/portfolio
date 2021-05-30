@@ -13,10 +13,11 @@
         &-main {
             display: flex;
             justify-content: center;
+            flex-direction: column;
         }
 
         &-right {
-            margin-left: 3rem;
+            margin-left: 2rem;
         }
     }
 
@@ -32,10 +33,12 @@
         color: #8dbfe3;
         font-size: 16px;
         font-style: italic;
+        min-width: 60vw;
     }
 
     &-image {
-        width: 8rem;
+        width: 15rem;
+        height: 10rem;
         background-color: white;
     }
 }

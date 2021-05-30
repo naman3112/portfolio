@@ -1,6 +1,7 @@
 import React from 'react'
 import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 import Accordion from "react-bootstrap/Accordion";
+import REACT from "../../assets/img/skills/react.svg";
 
 import { projects } from "./projects-data";
 
