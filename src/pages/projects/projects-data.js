@@ -23,8 +23,47 @@ import NLP from '../../assets/img/skills/nlp.PNG'
 import PYPLOT from '../../assets/img/skills/matplotlib.svg'
 import cs from "../../assets/img/projects/cs.png"
 import REACT from "../../assets/img/skills/react.svg";
-
+import icccn from "../../assets/img/projects/icccn.png"
+import patent from "../../assets/img/projects/patent.png"
 export const projects = [
+   
+    {
+        date: "Feb,2021",
+        text: "Website for UK conference",
+        img: icccn,
+        desc: "Built website during my internship at universal inovators",
+        features: [],
+        techs: [{
+            img: REACT,
+            text: "ReactJs"
+        }],
+        links: [{
+            url: "https://icccn.co.uk/",
+            text: "Click here for  Live Link"
+        },]
+    },
+   
+    {
+        date: "Jan,2021",
+        text: "Website for Patent conference",
+        img: patent,
+        desc: "Built website during my internship at universal inovators",
+        features: [],
+        techs: [{
+            img: REACT,
+            text: "ReactJs"
+        }],
+        links: [{
+            url: "https://iciip-patent.com/",
+            text: "Click here for Live Link"
+        },]
+    },
+   
+   
+   
+   
+   
+   
     {
         date: "Nov,2019",
         text: "Intelligent Traffic Management System",
