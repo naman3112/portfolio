@@ -26,7 +26,7 @@ I have a keen interest in MERN stack, Internet Of things and have been learning 
 
 
                     <ul className="about-buttons">
-                        <li className="about-buttons-li"><a href="https://drive.google.com/file/d/1Hgig9kxgUujUsBSujyB_lh15LUdxhefH/view?usp=sharing"
+                        <li className="about-buttons-li"><a href="https://drive.google.com/file/d/1m7ZlsgB7JRIxBa_BucVlMlcgvTtrd_ry/view?usp=sharing"
                             target="_blank" rel="noopener noreferrer">My Resume</a></li>
                         <li className="about-buttons-li"><a href="#contact" target="_blank" rel="noopener noreferrer">Lets talk!</a></li>
                         <li className="about-buttons-li"><a href="https://github.com/naman3112" target="_blank" rel="noopener noreferrer">GitHub</a></li>
